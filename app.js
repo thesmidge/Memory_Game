@@ -11,43 +11,43 @@ document.addEventListener('DOMContentLoaded', () =>{
     },
     {
       name: 'dragon2',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon2.jpeg'
     },
     {
       name: 'dragon2',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon2.jpeg'
     },
     {
       name: 'dragon3',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon3.jpeg'
     },
     {
       name: 'dragon3',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon3.jpeg'
     },
     {
       name: 'dragon4',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon4.jpeg'
     },
     {
       name: 'dragon4',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon4.jpeg'
     },
     {
       name: 'dragon5',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon5.jpeg'
     },
     {
       name: 'dragon5',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon5.jpeg'
     },
     {
       name: 'dragon6',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon6.jpeg'
     },
     {
       name: 'dragon6',
-      img: 'images/dragon1.jpeg'
+      img: 'images/dragon6.jpeg'
     },
   ]
   const grid = document.querySelector('.grid');

@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'dragon6',
       img: 'images/dragon6.jpeg'
     }
-  ]
+  ];
   
   cardArray.sort(() => 0.5 - Math.random());
   
@@ -102,8 +102,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (cardsChosen.length === 2) {
       setTimeout(checkForMatch, 500);
   }
-}
-createBoard();
+  
+  createBoard();
 })
 
 

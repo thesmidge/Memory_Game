@@ -101,8 +101,8 @@ document.addEventListener('DOMContentLoaded', () => {
     this.setAttribute('src', cardArray[cardId].img);
     if (cardsChosen.length === 2) {
       setTimeout(checkForMatch, 500);
+    }
   }
-  
   createBoard();
 })
 
